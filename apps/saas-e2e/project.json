@@ -1,0 +1,10 @@
+{
+  "name": "saas-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/saas-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["saas"],
+  "// targets": "to see all targets run: nx show project saas-e2e --web",
+  "targets": {}
+}

@@ -1,0 +1,10 @@
+{
+  "name": "devsecops-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/devsecops-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["devsecops"],
+  "// targets": "to see all targets run: nx show project devsecops-e2e --web",
+  "targets": {}
+}

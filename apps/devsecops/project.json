@@ -1,0 +1,9 @@
+{
+  "name": "devsecops",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/devsecops/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project devsecops --web",
+  "targets": {}
+}
